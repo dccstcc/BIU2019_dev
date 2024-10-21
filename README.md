@@ -178,13 +178,13 @@ See `LICENSE` for more information.
 
 ## Contact
 
-Dominik Stec - dominikstec@devapp.tools
+Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/Rich_Internet_Application_PJA`
+`https://github.com/dominik-stec/Rich_Internet_Application`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
