@@ -28,7 +28,7 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">Rich Internet Application</h2>
+  <h2 align="center">Angular</h2>
 
   <p align="center">
     <h4> Bogate Interfejsy Użytkownika (BIU) lecture module in PJATK </h4>
@@ -184,7 +184,7 @@ Dominik Stec - dccstcc@gmail.com
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/Rich_Internet_Application`
+`https://github.com/dominik-stec/Angular`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
@@ -205,16 +205,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Rich_Internet_Application_PJA.svg?style=for-the-badge
-[contributors-url]: https://github.com/dominik-stec/Rich_Internet_Application_PJA/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Rich_Internet_Application_PJA.svg?style=for-the-badge
-[forks-url]: https://github.com/dominik-stec/Rich_Internet_Application_PJA/network/members
-[stars-shield]: https://img.shields.io/github/stars/dominik-stec/Rich_Internet_Application_PJA.svg?style=for-the-badge
-[stars-url]: https://github.com/dominik-stec/Rich_Internet_Application_PJA/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dominik-stec/Rich_Internet_Application_PJA.svg?style=for-the-badge
-[issues-url]: https://github.com/dominik-stec/Rich_Internet_Application_PJA/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Angular.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/Angular/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Angular.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/Angular/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/Angular.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/Angular/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/Angular.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/Angular/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/Rich_Internet_Application_PJA/blob/master/LICENSE.md
+[license-url]: https://github.com/dominik-stec/Angular/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
