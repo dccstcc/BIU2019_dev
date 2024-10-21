@@ -124,7 +124,7 @@ Angular devkit package install with Node Package Manager is need. <br />
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dominik-stec/Rich_Internet_Application_PJA.git
+   git clone https://github.com/dominik-stec/Angular.git
    ```
 2. Go to folder with Angular sources
    ```sh
